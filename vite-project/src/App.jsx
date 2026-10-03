@@ -1,10 +1,11 @@
 // import './App.css'
 // import Reducer from './Reducer.jsx'
 // import Todo from './Todo.jsx'
-import Memo2 from './Memo2.jsx'
+// import Home from "./Home.jsx"
+import HOCExample from "./HOCExample.jsx"
 function App() {
   return<>
-  <Memo2/>
+  <HOCExample/>
   </>
 }
 
